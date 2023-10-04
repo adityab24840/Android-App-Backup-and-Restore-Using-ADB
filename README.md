@@ -1,4 +1,3 @@
-```markdown
 # Android App Backup and Restore Using ADB
 
 This guide provides instructions for backing up and restoring Android apps and data using ADB (Android Debug Bridge). ADB is a command-line tool that allows you to interact with your Android device from a computer.
