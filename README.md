@@ -88,4 +88,3 @@ This guide provides instructions for backing up and restoring Android apps and d
 - These scripts may require you to unlock your device's screen during backup and restore operations.
 
 That's it! You've successfully backed up and restored Android apps and data using ADB. Customize the scripts and instructions as needed for your specific setup.
-```
